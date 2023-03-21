@@ -36,8 +36,7 @@ saludar();
       </header>
         {/* <TablaPeriodicaLayout/> */}
       <Producto item={producto} saludar={saludar} />
-      <Producto item={producto2} saludar={saludar} />
-      <Producto item={producto3} saludar={saludar} />
+      <Producto item={producto} saludar={saludar} />
      
       <main />
       <Footer />
